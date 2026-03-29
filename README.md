@@ -8,3 +8,5 @@ Connect reset, interrupt scl, sda, vin and gnd.
 Enable nvic interrupt with falling edge detection. 
 
 Example code is provided in the main.c file under Core/Src/main.c
+
+Library is currently tested on bluepill boards(stm32f103c8t6)
